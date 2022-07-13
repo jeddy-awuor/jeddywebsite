@@ -59,7 +59,6 @@ body{
     
  }
  .navbar-nav li a{
-    background-color: black;
     color: white;
     text-decoration: none;
     padding: 35px 15px;
@@ -418,7 +417,7 @@ footer{
     font-size: 50px;
     color: white;
 }
-.in-touch li:link{
+.in-touch a:link{
     color: white;
     text-decoration: none;
     text-decoration: none;
